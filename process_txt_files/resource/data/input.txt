@@ -1,0 +1,3 @@
+Python is great. Python is easy to learn.
+Clean code helps write better Python code.
+Learning Python is fun and powerful.
